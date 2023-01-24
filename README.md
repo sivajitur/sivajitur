@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @sivajitur
-- 👀 I’m interested in data science and analytics
-- 🌱 I’m currently learning Python, R and SQL!
+UCLA Statistics student with a focus in Machine Learning. Well versed in Python, C++, SQL, and R. Experience with industry tools such as Snowflake, PowerBI, and Matillion. Experience with data analysis & modeling of large data sets using Artificial Intelligence. Currently searching for Data Engineering / Data Science roles for Summer 2023.
+
 
 - 📫 How to reach me 
     Email: sturimella@g.ucla.edu
